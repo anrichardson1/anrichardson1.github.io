@@ -1,0 +1,30 @@
+#set_d{
+    width: 350px;
+}
+
+
+
+#first_underline{
+    text-decoration-line: underline;
+}
+
+#hl_o {
+    background: orange;
+}
+
+
+#b_r{
+    color: red;
+    font-weight: bold;
+}
+
+#b_r2{
+    color: red;
+    font-weight: bold;
+}
+
+#second_underline{
+    text-decoration-line: underline;
+}
+
+
